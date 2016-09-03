@@ -1,4 +1,4 @@
-Linkit ONE
+Grove - OLED Display 1.12``
 ---
 
 **SKU**: [104030011](http://www.seeedstudio.com/Grove-OLED-Display-1.12%22-p-824.html)
